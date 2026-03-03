@@ -1,0 +1,436 @@
+610
+     RDKit          2D
+
+ 60 67  0  0  0  0  0  0  0  0999 V2000
+   -1.2038   -2.7494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7759   -4.1360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8611   -5.3248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6258   -5.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5407   -6.3156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9686   -7.7022    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0275   -6.1177    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9424   -7.3065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4293   -7.1086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0013   -5.7219    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4882   -5.5241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0603   -4.1374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5472   -3.9395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1192   -2.5529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2044   -1.3642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7765    0.0225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8617    1.2112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3748    1.0133    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4337    2.5978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6482    3.8757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1526    3.9913    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5050    5.3442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3528    6.5816    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7052    7.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2096    8.0502    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3617    6.8128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0094    5.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9228    4.4257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6036    5.1396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8749    6.6149    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6207    5.0177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0074    4.4456    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8918    2.9501    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7175   -1.5621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1455   -2.9487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0865   -4.5332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5996   -4.7311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2628   -4.3339    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1776   -3.1452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6645   -3.3431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5793   -2.1543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0662   -2.3522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6383   -3.7388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.1251   -3.9367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.0400   -2.7480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4679   -1.3613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9810   -1.1635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7097    0.3118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3568    0.9595    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.0290    1.0257    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.2269    2.5126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0381    3.4274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.2360    4.9143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.6226    5.4864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.8205    6.9732    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.8114    4.5715    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.6135    3.0846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.8022    2.1698    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.1156   -0.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.5908    0.2629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 28  1  0
+ 28 29  2  0
+ 29 30  1  0
+ 20 31  1  0
+ 31 32  2  0
+ 32 33  1  0
+ 15 34  1  0
+ 34 35  2  0
+ 10 36  1  0
+ 36 37  1  0
+  2 38  1  0
+ 38 39  1  0
+ 39 40  1  0
+ 40 41  1  0
+ 41 42  1  0
+ 42 43  2  0
+ 43 44  1  0
+ 44 45  2  0
+ 45 46  1  0
+ 46 47  2  0
+ 47 48  1  0
+ 48 49  2  0
+ 48 50  1  0
+ 50 51  1  0
+ 51 52  1  0
+ 52 53  1  0
+ 53 54  1  0
+ 54 55  2  0
+ 54 56  1  0
+ 56 57  1  0
+ 57 58  2  0
+ 50 59  1  0
+ 59 60  2  0
+ 37  7  1  0
+ 47 42  1  0
+ 57 51  1  0
+ 35 12  1  0
+ 59 46  1  0
+ 33 19  1  0
+ 27 22  1  0
+ 30 26  1  0
+M  END
+>  <Name>  (1) 
+
+
+>  <Uniprot>  (1) 
+P50750
+
+>  <Target>  (1) 
+CDK9
+
+>  <PDB>  (1) 
+
+
+>  <Smiles>  (1) 
+O=C(CCC(=O)N1CCN(CC2=CC=C(NC(=O)C3=C(NC4=NC=NC5=C4C=C[NH]5)C=N[NH]3)C=C2)CC1)NCCNC1=CC=CC2=C1C(=O)N(C1CCC(=O)NC1=O)C2=O
+
+>  <DC50 (nM)>  (1) 
+33
+
+>  <Dmax (%)>  (1) 
+
+
+>  <Assay (DC50/Dmax)>  (1) 
+Degradation of CDK9 in PC-3 cells after 24 h treatment
+
+>  <Percent_degradation (%)>  (1) 
+
+
+>  <Assay (Percent degradation)>  (1) 
+
+
+>  <IC50 (nM, Protac to Target)>  (1) 
+14.5
+
+>  <Assay (Protac to Target, IC50)>  (1) 
+Inhibition of CDK9/cyclin T1
+
+>  <EC50 (nM, Protac to Target)>  (1) 
+
+
+>  <Assay (Protac to Target, EC50)>  (1) 
+
+
+>  <Kd (nM, Protac to Target)>  (1) 
+
+
+>  <Assay (Protac to Target, Kd)>  (1) 
+
+
+>  <Ki (nM, Protac to Target)>  (1) 
+
+
+>  <Assay (Protac to Target, Ki)>  (1) 
+
+
+>  <delta G (kcal/mol, Protac to Target)>  (1) 
+
+
+>  <delta H (kcal/mol, Protac to Target)>  (1) 
+
+
+>  <-T*delta S (kcal/mol, Protac to Target)>  (1) 
+
+
+>  <Assay (Protac to Target, G/H/-TS)>  (1) 
+
+
+>  <kon (1/Ms, Protac to Target)>  (1) 
+
+
+>  <koff (1/s, Protac to Target)>  (1) 
+
+
+>  <t1/2 (s, Protac to Target)>  (1) 
+
+
+>  <Assay (Protac to Target, kon/koff/t1/2)>  (1) 
+
+
+>  <IC50 (nM, Protac to E3)>  (1) 
+
+
+>  <Assay (Protac to E3, IC50)>  (1) 
+
+
+>  <EC50 (nM, Protac to E3)>  (1) 
+
+
+>  <Assay (Protac to E3, EC50)>  (1) 
+
+
+>  <Kd (nM, Protac to E3)>  (1) 
+
+
+>  <Assay (Protac to E3, Kd)>  (1) 
+
+
+>  <Ki (nM, Protac to E3)>  (1) 
+
+
+>  <Assay (Protac to E3, Ki)>  (1) 
+
+
+>  <delta G (kcal/mol, Protac to E3)>  (1) 
+
+
+>  <delta H (kcal/mol, Protac to E3)>  (1) 
+
+
+>  <-T*delta S (kcal/mol, Protac to E3)>  (1) 
+
+
+>  <Assay (Protac to E3, G/H/-TS)>  (1) 
+
+
+>  <kon (1/Ms, Protac to E3)>  (1) 
+
+
+>  <koff (1/s, Protac to E3)>  (1) 
+
+
+>  <t1/2 (s, Protac to E3)>  (1) 
+
+
+>  <Assay (Protac to E3, kon/koff/t1/2)>  (1) 
+
+
+>  <IC50 (nM, Ternary complex)>  (1) 
+
+
+>  <Assay (Ternary complex, IC50)>  (1) 
+
+
+>  <EC50 (nM, Ternary complex)>  (1) 
+
+
+>  <Assay (Ternary complex, EC50)>  (1) 
+
+
+>  <Kd (nM, Ternary complex)>  (1) 
+
+
+>  <Assay (Ternary complex, Kd)>  (1) 
+
+
+>  <Ki (nM, Ternary complex)>  (1) 
+
+
+>  <Assay (Ternary complex, Ki)>  (1) 
+
+
+>  <delta G (kcal/mol, Ternary complex)>  (1) 
+
+
+>  <delta H (kcal/mol, Ternary complex)>  (1) 
+
+
+>  <-T*delta S (kcal/mol, Ternary complex)>  (1) 
+
+
+>  <Assay (Ternary complex, G/H/-TS)>  (1) 
+
+
+>  <kon (1/Ms, Ternary complex)>  (1) 
+
+
+>  <koff (1/s, Ternary complex)>  (1) 
+
+
+>  <t1/2 (s, Ternary complex)>  (1) 
+
+
+>  <Assay (Ternary complex, kon/koff/t1/2)>  (1) 
+
+
+>  <IC50 (nM, Cellular activities)>  (1) 
+120
+
+>  <Assay (Cellular activities, IC50)>  (1) 
+Inhibit proliferation of PC-3 cells
+
+>  <GI50 (nM, Cellular activities)>  (1) 
+
+
+>  <Assay (Cellular activities, GI50)>  (1) 
+
+
+>  <EC50 (nM, Cellular activities)>  (1) 
+
+
+>  <Assay (Cellular activities, EC50)>  (1) 
+
+
+>  <ED50 (nM, Cellular activities)>  (1) 
+
+
+>  <Assay (Cellular activities, ED50)>  (1) 
+
+
+>  <GR50 (nM, Cellular activities)>  (1) 
+
+
+>  <Assay (Cellular activities, GR50)>  (1) 
+
+
+>  <PAMPA Papp (nm/s, Permeability)>  (1) 
+
+
+>  <Assay (Permeability, PAMPA Papp)>  (1) 
+
+
+>  <Caco-2 A2B Papp (nm/s, Permeability)>  (1) 
+
+
+>  <Assay (Permeability, Caco-2 A2B Papp)>  (1) 
+
+
+>  <Caco-2 B2A Papp (nm/s, Permeability)>  (1) 
+
+
+>  <Assay (Permeability, Caco-2 B2A Papp)>  (1) 
+
+
+>  <Cmax>  (1) 
+nan
+
+>  <Tmax>  (1) 
+nan
+
+>  <T 1/2>  (1) 
+nan
+
+>  <AUC 0-t>  (1) 
+nan
+
+>  <AUC 0-infinity>  (1) 
+nan
+
+>  <Vz>  (1) 
+nan
+
+>  <Vz/F>  (1) 
+nan
+
+>  <Vss>  (1) 
+nan
+
+>  <CL>  (1) 
+nan
+
+>  <CL/F>  (1) 
+nan
+
+>  <MRT 0-t>  (1) 
+nan
+
+>  <MRT 0-infinity>  (1) 
+nan
+
+>  <F(bioavailability) %>  (1) 
+
+
+>  <Assay (PK parameter)>  (1) 
+nan
+
+>  <Article DOI>  (1) 
+10.1016/j.ejmech.2019.111952
+
+>  <Molecular Weight>  (1) 
+815.852
+
+>  <Exact Mass>  (1) 
+815.325190652
+
+>  <XLogP3>  (1) 
+1.28
+
+>  <Heavy Atom Count>  (1) 
+60
+
+>  <Ring Count>  (1) 
+8
+
+>  <Hydrogen Bond Acceptor Count>  (1) 
+13
+
+>  <Hydrogen Bond Donor Count>  (1) 
+7
+
+>  <Rotatable Bond Count>  (1) 
+14
+
+>  <Topological Polar Surface Area>  (1) 
+259.61
+
+>  <Molecular Formula>  (1) 
+C40H41N13O7
+
+>  <InChI>  (1) 
+InChI=1S/C40H41N13O7/c54-30(42-15-14-41-27-3-1-2-25-33(27)40(60)53(39(25)59)29-8-9-31(55)49-37(29)57)10-11-32(56)52-18-16-51(17-19-52)21-23-4-6-24(7-5-23)47-38(58)34-28(20-46-50-34)48-36-26-12-13-43-35(26)44-22-45-36/h1-7,12-13,20,22,29,41H,8-11,14-19,21H2,(H,42,54)(H,46,50)(H,47,58)(H,49,55,57)(H2,43,44,45,48)
+
+>  <InChI Key>  (1) 
+BRYMZSSAIDEFEM-UHFFFAOYSA-N
+
+$$$$

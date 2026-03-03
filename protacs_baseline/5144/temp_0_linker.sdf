@@ -1,0 +1,26 @@
+Linker extracted from 0_.xyz
+ OpenBabel06072521033D
+
+ 10 10  0  0  0  0  0  0  0  0999 V2000
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+$$$$

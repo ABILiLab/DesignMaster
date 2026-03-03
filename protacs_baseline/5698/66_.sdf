@@ -1,0 +1,72 @@
+protacs_baseline/5698/66_.xyz
+ OpenBabel06072521043D
+
+ 46 20  0  0  0  0  0  0  0  0999 V2000
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0 15  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+       nan       nan       nan C   0  0  0  0  0  0  0  0  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 42 44  1  0  0  0  0
+ 42 45  1  0  0  0  0
+ 42 46  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 43 45  1  0  0  0  0
+ 43 46  1  0  0  0  0
+ 44 45  1  0  0  0  0
+ 44 46  1  0  0  0  0
+ 45 46  1  0  0  0  0
+M  END
+$$$$
