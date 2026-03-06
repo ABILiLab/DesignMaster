@@ -12,24 +12,6 @@ Experiments on **PROTAC-DB 2.0** and **PROTAC-DB 3.0** demonstrate that DesignMa
 
 ---
 
-# Framework Overview
-
-The overall architecture of DesignMaster is illustrated below.
-
-<p align="center">
-  <img src="framework.png" width="800">
-</p>
-
-The model integrates three key components:
-
-- **E(3)-equivariant graph Transformer** for encoding 3D molecular structures  
-- **Diffusion-based generative process** for linker reconstruction  
-- **Gated multi-condition fusion module** for injecting linker length and physicochemical constraints  
-
-Together, these components enable controllable and structure-aware PROTAC generation.
-
----
-
 # Data and Pretrained Models
 
 The training datasets, pretrained checkpoints, and generated results are publicly available at Zenodo:
