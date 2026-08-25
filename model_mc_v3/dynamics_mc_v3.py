@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import numpy as np
 from model_base.graphormer_3d import Graphormer3D
-from model_mc_v1.conditions import TimestepEmbedder, ClusterContinuousEmbedder, CategoricalEmbedder
+from model_base.conditions import TimestepEmbedder, ClusterContinuousEmbedder, CategoricalEmbedder
 from model_mc_v3.gated_fusion import FiLMGatedMultiConditionFusion as GatedTimeFuser
 
 class DynamicsEfficient(nn.Module):
